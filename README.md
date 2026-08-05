@@ -1,6 +1,7 @@
+<img width="1762" height="872" alt="Screenshot 2026-07-27 155039" src="https://github.com/user-attachments/assets/80c94fc0-843a-4952-a920-95f1e4d4c4b4" />
+<img width="1782" height="901" alt="Screenshot 2026-07-27 155020" src="https://github.com/user-attachments/assets/7fb8d77c-ca9d-453d-a673-92489a08fe3d" />
+<img width="1853" height="888" alt="Screenshot 2026-07-27 154934" src="https://github.com/user-attachments/assets/6121e66f-d01e-44af-80ee-77d9bd6e5111" />
 # NovelNest_Project<img width="1762" height="872" alt="Screenshot 2026-07-27 155039" src="https://github.com/user-attachments/assets/58d567f1-a12f-430c-a230-b492d4cfdcfd" />
-<img width="1782" height="901" alt="Screenshot 2026-07-27 155020" src="https://github.com/user-attachments/assets/fd502b25-0241-46be-a6e2-f60c1435bc0d" />
-<img width="1853" height="888" alt="Screenshot 2026-07-27 154934" src="https://github.com/user-attachments/assets/5564c107-9dc3-4b94-ab3d-6de6f1c30646" />
 
 
 A responsive book discovery and management web platform built with Django, HTML, CSS, and JavaScript. NovelNest allows users to explore books by category, browse new releases, view author details, and interact with a dynamic gallery — all through a clean, modern interface.
